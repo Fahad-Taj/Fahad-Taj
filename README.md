@@ -39,9 +39,9 @@ I'm a passionate Android developer from India, specializing in modern Android de
 ## 🤝 Connect with Me
 
 <!-- Add your social media links here -->
-- LinkedIn: [Your LinkedIn]()
-- LeetCode: [Your LeetCode]()
-- Email: [Your Email]()
+- LinkedIn: [Fahad's Linkedin](https://www.linkedin.com/in/fahad-taj-9644642a2/)
+- LeetCode: [_GLASSES_](https://leetcode.com/u/_GLASSES__/)
+- Email: [Email](fahadtaj909@gmail.com)
 
 ## 📫 How to Reach Me
 
